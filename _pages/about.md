@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Statistics, Renmin University of China
+subtitle: Ph.D.candidate, Institute of Statistics and Big Data, Renmin University of China
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    School of Statistics<br>
+    Institute of Statistics and Big Data<br>
     Renmin University of China<br>
     Beijing, China
 selected_papers: true
