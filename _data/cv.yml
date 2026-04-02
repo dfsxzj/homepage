@@ -20,7 +20,7 @@ cv:
       - institution: School of Mathematics, Southeast University
         location: Nanjing, China
         area: - Statistics
-        studyType: Bachelor
+        studyType: `Bachelor`
         start_date: 2018-09
         end_date: 2022-07
 
