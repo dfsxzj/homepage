@@ -1,12 +1,9 @@
 cv:
-  Name: Zhu Jun
-  Professional Title: Ph.D. Student in Statistics
-  Email: dfsxzj@ruc.edu.cn
-  Location: Beijing, China
-  Research Interests:
-    - Accelerated algorithms for Optimal Transport 
-    - Applications of Optimal Transport in large-scale data 
-    - Sufficient Dimension Reduction
+  name: Zhu Jun
+  professional Title: Ph.D. Student in Statistics
+  email: dfsxzj@ruc.edu.cn
+  location: Beijing, China
+
   sections:
     Education:
       - institution: Institute of Statistics and Big Data, Renmin University of China
