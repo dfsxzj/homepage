@@ -6,29 +6,20 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Institute of Statistics and Big Data, Renmin University of China
+        location: Beijing, China
+        area: Statistics (Data Science & Artificial Intelligence)
+        studyType: [PhD]
+        start_date: 2022-09
+        end_date: Present
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
+      - institution: School of Mathematics, Southeast University
+        location: Nanjing, China
+        area: Statistics
+        studyType: Bachelor
+        start_date: 2018-09
+        end_date: 2022-06
+        
     Experience:
       - company: Institute for Advanced Study, Princeton University
         position: Professor of Theoretical Physics
