@@ -67,37 +67,37 @@ layout: default
             <table class="table table-cv table-sm table-borderless">
               {% if cv.name %}
                 <tr>
-                  <td class="p-1 pr-2 font-weight-bold"><b>Name</b></td>
+                  <td class="p-1 pr-2 font-weight-bold" style="min-width: 160px;"><b>Name</b></td>
                   <td class="p-1 pl-2 font-weight-light">{{ cv.name }}</td>
                 </tr>
               {% endif %}
               {% if cv.label %}
                 <tr>
-                  <td class="p-1 pr-2 font-weight-bold"><b>Professional Title</b></td>
+                  <td class="p-1 pr-2 font-weight-bold" style="min-width: 160px;"><b>Professional Title</b></td>
                   <td class="p-1 pl-2 font-weight-light">{{ cv.label }}</td>
                 </tr>
               {% endif %}
               {% if cv.email %}
                 <tr>
-                  <td class="p-1 pr-2 font-weight-bold"><b>Email</b></td>
+                  <td class="p-1 pr-2 font-weight-bold" style="min-width: 160px;"><b>Email</b></td>
                   <td class="p-1 pl-2 font-weight-light">{{ cv.email }}</td>
                 </tr>
               {% endif %}
               {% if cv.phone %}
                 <tr>
-                  <td class="p-1 pr-2 font-weight-bold"><b>Phone</b></td>
+                  <td class="p-1 pr-2 font-weight-bold" style="min-width: 160px;"><b>Phone</b></td>
                   <td class="p-1 pl-2 font-weight-light">{{ cv.phone }}</td>
                 </tr>
               {% endif %}
               {% if cv.interests %}
                 <tr>
-                  <td class="p-1 pr-2 font-weight-bold text-nowrap"><b>Research Interests</b></td>
+                  <td class="p-1 pr-2 font-weight-bold" style="min-width: 160px;"><b>Research Interests</b></td>
                   <td class="p-1 pl-2 font-weight-light">{{ cv.interests }}</td>
                 </tr>
               {% endif %}
               {% if cv.address %}
                 <tr>
-                  <td class="p-1 pr-2 font-weight-bold"><b>Location</b></td>
+                  <td class="p-1 pr-2 font-weight-bold" style="min-width: 160px;"><b>Location</b></td>
                   <td class="p-1 pl-2 font-weight-light">
                     {% if cv.address.street %}{{ cv.address.street }}, {% endif %}
                     {% if cv.address.city %}{{ cv.address.city }}, {% endif %}
@@ -108,7 +108,7 @@ layout: default
               {% endif %}
               {% if cv.website %}
                 <tr>
-                  <td class="p-1 pr-2 font-weight-bold"><b>Website</b></td>
+                  <td class="p-1 pr-2 font-weight-bold" style="min-width: 160px;"><b>Website</b></td>
                   <td class="p-1 pl-2 font-weight-light">
                     <a href="{{ cv.website }}" target="_blank">{{ cv.website }}</a>
                   </td>
