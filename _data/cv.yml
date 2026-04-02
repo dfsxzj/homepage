@@ -2,22 +2,7 @@ cv:
   name: Zhu Jun
   label: Ph.D. Student in Statistics
   email: dfsxzj@ruc.edu.cn
-  Research Interests: statistical machine learning; optimal transport; sufficient dimension reduction
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  interests: statistical machine learning; optimal transport; sufficient dimension reduction
 
   sections:
     Education:
