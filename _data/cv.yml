@@ -13,14 +13,14 @@ cv:
       - institution: Institute of Statistics and Big Data, Renmin University of China
         location: Beijing, China
         area: - Statistics (Data Science & Artificial Intelligence)
-        studyType: `PhD`
+        studyType: PhD
         start_date: 2022-09
         end_date: Present
 
       - institution: School of Mathematics, Southeast University
         location: Nanjing, China
         area: - Statistics
-        studyType: `Bachelor`
+        studyType: Bachelor
         start_date: 2018-09
         end_date: 2022-07
 
