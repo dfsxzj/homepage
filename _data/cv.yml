@@ -21,26 +21,23 @@ cv:
         end_date: 2022-06
         
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: BYD Scholarship, Renmin University of China (Top 10%)
+        date: 2025-11
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: First-class Academic Scholarship
+        date: 2025-10
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Finalist for SEU 2022 Most Influential Undergraduate and Student of the Year
+        date: 2022-6
+      
+      - title: Outstanding Graduate of Jiangsu Province
+        date: 2022-6
+
+      - title: Provincial Merit Student of Jiangsu Province
+        date: 2021-5
+        
+      - title:  National Scholarship
+        date: 2020-12
 
 
 
