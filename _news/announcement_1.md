@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-11
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Awarded the [BYD Scholarship](https://mp.weixin.qq.com/s/nuZ7sMR5UcDOL9nvkcB3ZQ) at Renmin University of China for 2024-2025
