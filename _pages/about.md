@@ -21,7 +21,7 @@ latest_posts:
   enabled: false
 ---
 
-I am `Jun Zhu`, a PhD student in Statistics at `Renmin University of China`. My research broadly focuses on `statistical machine learning`, with current interests in `optimal transport`, `sufficient dimension reduction` and `data-driven decision-making`.
+I am `Jun Zhu`, a PhD student in Statistics at `Renmin University of China`, advised by [Dr. Cheng Meng](https://cheng-bdal.github.io/). My research broadly focuses on `statistical machine learning`, with current interests in `optimal transport`, `sufficient dimension reduction` and `data-driven decision-making`.
 
 My recent work explores topics such as:
 
