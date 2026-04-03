@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-6
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Recognized as a Finalist for the 2022 Most Influential Undergraduate & Student of the Year at Southeast University, the university’s highest honor for students with significant academic and social impact.
