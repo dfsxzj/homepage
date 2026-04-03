@@ -391,16 +391,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/homepage/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-honored-as-the-outstanding-graduate-of-jiangsu-province",
+          title: 'Honored as the Outstanding Graduate of Jiangsu Province',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-recognized-as-a-finalist-for-the-2022-most-influential-undergraduate-amp-amp-student-of-the-year-at-southeast-university-the-university-s-highest-honor-for-students-with-significant-academic-and-social-impact",
+          title: 'Recognized as a Finalist for the 2022 Most Influential Undergraduate &amp;amp;amp; Student of...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/homepage/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-won-the-huawei-chaspark-incentive-award-as-a-member-of-dr-cheng-meng-s-team",
+          title: 'I won the Huawei Chaspark Incentive Award as a member of Dr. Cheng...',
+          description: "",
+          section: "News",},{id: "news-awarded-the-byd-scholarship-at-renmin-university-of-china-for-2024-2025",
+          title: 'Awarded the BYD Scholarship at Renmin University of China for 2024-2025',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
