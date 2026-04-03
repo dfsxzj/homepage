@@ -23,7 +23,6 @@ latest_posts:
 
 Welcome to my homepage! I am `Jun Zhu`, a PhD student in Statistics at `Renmin University of China`, where I am fortunate to be advised by [Dr. Cheng Meng](https://cheng-bdal.github.io/). Previously, I received the B.S. degree in statistics from Southeast University, Nanjing, China, in 2022. My research broadly focuses on `statistical machine learning`, with current interests in `optimal transport`, `sufficient dimension reduction` and `data-driven decision-making`.
 
-why not fresh
 My recent work explores topics such as:
 
 - optimal transport and its applications to classification, clustering;
